@@ -1,0 +1,14 @@
+body{
+    width: 300px;
+    height: 300px;
+    background-color: darkblue;
+    display: flex;
+    justify-content: center;
+}
+img{
+    display: inner-flex;
+    margin: auto 10px;
+    padding: 10px;
+    width: 290px;
+    height: 290px;
+}
